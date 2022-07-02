@@ -1,0 +1,298 @@
+/*img.img-fluid{
+	width:40%;
+}*/
+
+
+/*.iklan img{
+	width:10%;
+}*/
+
+img.header{
+	width:39%;
+}
+
+.dropdown-item{
+	background-color: #000000;
+	color:#ffffff;
+}
+.dropdown-item1{
+	background-color: #000000;
+	color:#ffffff;
+	padding:10px;
+}
+
+.dropdown-menu{
+	padding:0px;
+	min-width:30rem;
+}
+
+.beritautama1{
+	font-size:20px;
+}
+
+.gambar2{
+	width:86%;
+}
+img.contact{
+	max-width:17%;
+}
+
+.contact{
+	background-color:#f2f2f2;
+	padding:8px;
+	border-radius:5px;
+}
+.gambar1{
+	width:100%;
+}
+
+.gambar4{
+	width:88%;
+}
+
+.iklan{
+	width:100%;
+	height:300px;
+}
+.penutup{
+	width:50%;
+}
+
+.set{
+	width:50%;
+}
+
+/*body{
+	background:#e7ecef;
+}*/ 
+.icon{
+	width:9%;
+}
+
+.utama{
+	font-weight: bold;
+	margin:13px;
+	/*background:red;
+	width:140px;
+	color:#fff;*/
+}
+
+
+
+.nav-item a{
+	margin-right:20px;
+}
+/*
+.trending{
+	background: grey;
+}
+*/
+
+hr{
+	width:100%;
+}
+
+.container-fluid .footer{
+	padding-left:0px !important;
+		padding-right:0px !important;
+}
+
+.home a{
+	font-size:13px;
+}
+
+img.edit{
+	height:43%;
+}
+
+.one img{
+	width:95%;
+}
+.one p{
+	font-size:12px;
+}
+/*h4.utama{
+	border-radius: 2px solid red;
+}*/
+
+
+.container-fluid{
+	padding-left:0px !important;
+		padding-right:0px !important;
+}
+
+.sett img{
+	width:570%;
+}
+
+
+/*.sett1{
+	width:10%;
+}*/
+
+.sett1 img{
+transition: 0.7;
+	background-position: center;
+}
+
+.sett1 img:hover{
+	transform: scale(1.2);
+		}
+/*
+.one{
+	margin-top:10px;
+	margin-right:30px;
+}
+*/
+
+
+
+.aa{
+	width:50%;
+}
+.carousel-inner{
+	transition: 0.9;
+	background-position: center;
+}
+
+.carousel-inner img:hover {
+		transform:scale(1.1);
+}
+
+img.berita1{
+	width:100%;
+}
+
+img.brt1{
+	margin:20px;
+}
+
+.img-fluid{
+	width: 100% !important;
+}
+form{
+	width:50%;
+}
+
+.populer{
+	background:#71c4d6;
+	height:15vh;
+/*	width:10vh;*/
+}
+
+.isi{
+	background:#e7e7e7;
+	position:absolute;
+	height:15vh;
+	padding:2vh;
+}
+
+
+form label{
+	color:red;
+}
+.iklanatas{
+	width:100%;
+	height:296px;
+}
+.maps{
+	height:250px;
+	max-width:350px;
+}
+
+
+.vid{
+	max-width:100%;
+	height:100%;
+}
+
+.footer{
+	padding:0px;
+}
+
+.iklan3{
+		width:110%;
+}
+/*.beritautama span{
+	font-size:20px;
+}
+*/
+
+/*	.img-fluid{
+	width:80%;*/
+/*@media (min-width: 768px) {
+	.imgg {
+	width:100%;
+	margin-top:6%;
+}
+}*/
+
+
+@media (min-width: 200px) and (max-width: 991px) {
+	.beritautama1{
+		font-size:11px;
+	}
+
+	.kolom h6{
+			font-size:10px;
+	}
+
+	.iklanbawah{
+		max-width:100%;
+	}
+
+	
+}
+
+
+@media (max-width: 768px) {
+	.sorotan{
+		width:100%;
+	}
+
+	.gambar1{
+		width:50%;
+	}
+
+	.gambar2{
+		width:50%;
+	}
+
+	.kolom{
+		width:190%;
+	}
+
+	.judul{
+		font-size:10px;
+	}
+	.isivid{
+		font-size:12px;
+		font-weight: bold;
+	}
+
+	.kolom h6{
+			font-size:7px;
+	}
+
+	.iklan3{
+			width:100%;
+		}
+
+		.carousel-item{
+			width:100%;
+		}
+
+
+}
+
+
+@media (min-width:300px) and (max-width: 768px){
+	.beritautama .img-fluid{
+			width:10px;
+	}
+
+	}
+
+
+
+
